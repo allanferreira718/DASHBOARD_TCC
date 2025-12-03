@@ -1,0 +1,11 @@
+id,name,salary,employed,sector,state,admission_year
+1,João Silva,3500,Sim,Público,SP,2019
+2,Maria Santos,4200,Sim,Privado,RJ,2020
+3,Pedro Oliveira,3800,Sim,Público,MG,2021
+4,Ana Costa,4500,Sim,Privado,SP,2022
+5,Carlos Ferreira,3200,Não,Privado,BA,2023
+6,Francisca Alves,5000,Sim,Público,SP,2019
+7,Beatriz Rocha,4700,Sim,Privado,RS,2020
+8,Leonardo Lima,3600,Sim,Público,MG,2021
+9,Juliana Martins,4300,Sim,Privado,SP,2022
+10,Roberto Gomes,3900,Sim,Público,BA,2023
